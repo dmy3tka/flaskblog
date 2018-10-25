@@ -1,6 +1,6 @@
-cd ~/src
+pip install -r requirements.txt
 
 set FLASK_APP=flaskblog.py
 set Flask_DEBUG=1
 
-flask run
+python run.py
