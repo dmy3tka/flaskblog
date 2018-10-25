@@ -1,0 +1,6 @@
+cd ~/src
+
+set FLASK_APP=flaskblog.py
+set Flask_DEBUG=1
+
+flask run
